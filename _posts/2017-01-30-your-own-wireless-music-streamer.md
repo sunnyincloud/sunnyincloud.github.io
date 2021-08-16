@@ -1,4 +1,4 @@
-sunnySunny---
+---
 layout: post
 title: Make Your Own Wireless Music Streamer with Raspberry Pi
 tags: [DIY, music, raspberry pi]

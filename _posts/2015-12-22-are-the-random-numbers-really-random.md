@@ -1,4 +1,4 @@
-sunnySunnyoswalOswal---
+---
 layout: post
 title: Are The Random Numbers Really Random?
 tags: [probability, mathematics, science]

@@ -1,4 +1,4 @@
-sunnySunny---
+---
 layout: post
 title: "How is iOS different from Android, requires only a needful RAM in iPhones compared to Android phones?"
 tags: [Android, iOS]
